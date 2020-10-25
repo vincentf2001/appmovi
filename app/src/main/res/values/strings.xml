@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Imovi</string>
+    <string name="nav_movie">Movies</string>
+    <string name="nav_tv_show">Tv Shows</string>
+    <string name="cast">Cast</string>
+    <string name="genres">Genres</string>
+    <string name="popular">Popularity: </string>
+    <string name="dummy_text" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="movie_catalogue" translatable="false">Movie Catalogue</string>
+    <string name="cast_picture">Cast Picture</string>
+    <string name="movie_cover_picture">Movie Cover Picture</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="error_occurred">An error occurred while loading data</string>
+    <string name="cover_image">Cover Image</string>
+</resources>
